@@ -1,0 +1,12 @@
+img[title = "first"] {
+		width: 100%;
+}
+
+}
+img[title = "second"] {
+	position: absolute;
+	height: 50px;
+}
+#search {
+	font-size: 25px;
+	height: 50px;
